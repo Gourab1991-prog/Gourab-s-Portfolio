@@ -5,3 +5,24 @@ During My Data Analyst Career I have Worked with Advance Excel, Postgres SQL, Da
 I am Responsible For proactively identifying and autonomously prioritizing impactful strategic business problems, translating them into data stories and solving them effectively by applying suitable statistical data analysis and modeling methods.
 ### You Can Check out My Linkedin:[Gourab Mukherjee](https://www.linkedin.com/in/gourabmukherjee91/)
 ### My Resume: [Resume Link](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/Gourab%20Mukherjee%20Resume.pdf)
+
+## Table of Contents
+
+## Portfolio Projects
+
+- Python
+Analyzing the Factors Contributing to the Success of a Movie
+Tech Store Sales Analysis
+SQL
+Covid 19 Data Exploration
+Nashville Housing Data Cleaning
+R
+Legendary Pokémon Analysis (Study Project)
+Excel / Google Sheets
+Tableau---> go to Tableau..
+Power BI
+Education
+
+Certificates
+
+Contact
