@@ -17,3 +17,4 @@ I am Responsible For proactively identifying and autonomously prioritizing impac
 - EXCEL DATA ANALYSIS [CAPSTONE HYPER MARKET DATA](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/fea1d8717398c23dd7892de12e64aa4e4a204bda)
 
 ### PYTHON CAPSTONE PROJECT 
+- UNDERSTAND THE DATA FRAME [DATA FRAME](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/8ae31f7fa62e4967853ab1cb8e27b59cf8bbeee7)
