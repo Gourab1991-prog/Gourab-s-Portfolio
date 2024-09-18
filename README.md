@@ -128,7 +128,8 @@ Working With The Various Types Of Chart For Preparing An Excel DashBoard.
 ### PIE CHART 
 ![image](https://github.com/user-attachments/assets/4de9f4f4-fb59-4481-baa8-e79b32c47f34)
 
-![image](https://github.com/user-attachments/assets/ad50bcbb-6ebd-4550-9822-c812a8190185)
+![image](https://github.com/user-attachments/assets/10a5f075-fbc6-4a1b-8e59-6075d9cd2ea3)
+
 
 
 ### LINE CHART
