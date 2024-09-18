@@ -51,6 +51,6 @@ Print all the employee details whose city name contains the letter “o” in it
 Performance Evaluation 
 You need to complete all the given tasks. You should use the various functions from 
 Python libraries NumPy and Pandas to complete the assigned tasks.
-- The Goal 
+  ## The Goal Of The Project
   To help us better understand your skills and give us an idea of how
   I approach tasks relevant to data science. The capstone is a means for us to evaluate what I have learned so far and are you ready for real-world challenges or not.
