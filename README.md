@@ -70,5 +70,18 @@ Python libraries NumPy and Pandas to complete the assigned tasks.
   - PROJECT ANALYSIS DOC FILE LINK:- [ANALYSED FILE](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/965262bfa651f325fd6ab5877d8c76939b14efdd)
   ### DASHBOARD PICTURE
 
-  
-![my dashboard](https://github.com/user-attachments/assets/4724107d-f3b9-4a9c-a898-291523450d10)
+  ![my dashboard](https://github.com/user-attachments/assets/4724107d-f3b9-4a9c-a898-291523450d10)
+  ### OVERVIEW
+CAPSTONE stands as the leading department store in the e-commerce marketplaces in Portugal. Serving as a seamless link, it connects small businesses from various regions in Portugal to channels, streamlining the process with a single point of contact. Through the capstone Store, these merchants can showcase and sell their products, with the added convenience of direct shipment to customers facilitated by Capstone logistics partners. The provided data represents authentic commercial information that has undergone the process of anonymization.
+This capstone has 9 datasets and the descriptions are attached,
+Tasks to do:
+Design a comprehensive Power BI dashboard to address key business analytics for a retail dataset. The following analytical questions should be answered through your dashboard.
+-1 Identify the rating distribution in the Capstone dataset, showcasing ratings categorized as Excellent, Very Good, Good, Bad, and Very Bad, along with corresponding orders.
+-2 What are the top 10 and bottom 18 most popular product categories in the ShopNest dataset? Please list them based on the number of orders.
+-3 List the total number of active sellers by yearly and monthly.
+-4. Which payment methods are most commonly used by Capstone customers.
+-5. Identify the product category. wise profit margin using the formula.
+-6. Determine the monthly payments made by customers using credit cards.
+-7. Identify sellers categorized by city, excluding cities starting with the letters S and B.
+-8. Create a dynamic visual that compares the number of delayed orders to the number of orders received earlier for each month. Utilize the drill through the cross-report feature to provide a detailed analysis of late and on-time deliveries.CAPSTONE stands as the leading department store in the e-commerce marketplaces in Portugal. Serving as a seamless link, it connects small businesses from various regions in Portugal to channels, streamlining the process with a single point of contact. Through the capstone Store, these merchants can showcase and sell their products, with the added convenience of direct shipment to customers facilitated by Capstone logistics partners. The provided data represents authentic commercial information that has undergone the process of anonymization. This capstone has 9 datasets and the descriptions are attached, Tasks to do: Design a comprehensive Power BI dashboard to address key business analytics for a retail dataset. The following analytical questions should be answered through your dashboard. 1. Identify the rating distribution in the Capstone dataset, showcasing ratings categorized as Excellent, Very Good, Good, Bad, and Very Bad, along with corresponding orders. 2. What are the top 10 and bottom 18 most popular product categories in the ShopNest dataset? Please list them based on the number of orders. 3. List the total number of active sellers by yearly and monthly. 4. Which payment methods are most commonly used by Capstone customers. 5. Identify the product category. wise profit margin using the formula. 6. Determine the monthly payments made by customers using credit cards. 7. Identify sellers categorized by city, excluding cities starting with the letters S and B. 8. Create a dynamic visual that compares the number of delayed orders to the number of orders received earlier for each month. Utilize the drill through the cross-report feature to provide a detailed analysis of late and on-time deliveries.
+-Skills: Microsoft Power BI · DAX · Operative Dashboard · Relational Data Modeling · Data Modeling
