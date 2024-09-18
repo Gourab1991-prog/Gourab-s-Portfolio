@@ -114,4 +114,8 @@ week.Capstone is one of the largest food ecommerce platform in the country. Ever
 ![image](https://github.com/user-attachments/assets/cde5824e-f084-4bad-b8f6-32ed580b6055)
 
 
+### EXCEL ASSIGNMENT WORIKING WITH CHART
+- SOLUTION FILE LINK: [EXCEL FILE]
+
+
 
