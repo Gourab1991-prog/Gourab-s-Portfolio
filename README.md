@@ -20,33 +20,33 @@ I am Responsible For proactively identifying and autonomously prioritizing impac
 - UNDERSTAND THE DATA FRAME [DATA FRAME](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/8ae31f7fa62e4967853ab1cb8e27b59cf8bbeee7)
 - CODES ARE HERE: [CODES](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/capstone%20project%20(2).ipynb)
 - TASK TO DO :  Problems 
--Task 1 
+- Task 1 
 There are three different tables as given above. Please make three dataframe in python 
 and save them as three .csv files. From Task 2 to Task 10, use the saved .csv files only. 
--Task 2 
+- Task 2 
 The cost column in the dataframe “Project” has some missing values. Your task is to 
 compute these missing values. Replace the missing values by running average. You 
 should use the “For” loop for this task. 
--Task 3 
+- Task 3 
 Split the name column in the Employee dataframe into two new columns “First Name”, 
 and “Last Name” and remove the older “name” column. 
--Task 4 
+- Task 4 
 Join all three dataframes in one single dataframe. Name it “Final” 
--Task 5 
+- Task 5 
 Add a new bonus column in the Final dataframe. Give a 5% bonus concerning project 
 cost only to employees who have finished the projects. 
--Task 6 
+- Task 6 
 Demote the designation level by 1, whose projects have status “fail”. Delete the 
 employees record whose designation level is above 4. 
--Task 7 
+- Task 7 
 Add “Mr.” and “Mrs.” to the first name column and drop the gender column. 
--Task 8 
+- Task 8 
 Promote designation level by 1 for the employees whose age is more than 29 years using 
 IF condition. 
--Task 9 
+- Task 9 
 Add the cost of all projects for each Employee and save it in new dataframe 
 “TotalProjCost” with three columns ID, First Name, and Total cost 
--Task 10 
+- Task 10 
 Print all the employee details whose city name contains the letter “o” in it. 
 Performance Evaluation 
 You need to complete all the given tasks. You should use the various functions from 
