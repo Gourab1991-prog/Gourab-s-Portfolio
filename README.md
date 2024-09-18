@@ -92,5 +92,26 @@ Design a comprehensive Power BI dashboard to address key business analytics for 
 
 ### CAPSTONE BUSNINESS FUNNEL ANALYSIS 
 - ANALYSED DATA LINK [FUNNEL ANALYSIS STATISTICS](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/20274b2f475356ffe624ebcf6d00350dd00c9e50)
+### PROJECT OVERVIEW :
+Capstone is one of the largest food ecommerce platform in the country. Every day more
+than 1 million users are transacting on the platform. Let’s say you are growth and
+strategy analyst of Capstone and you need to generate insight on company’s
+performance in 2019. For this, you are going to use ‘Funnel Case Study Data’ workbook
+which has 3 work sheets. You can find the details of the sheets below:
+Session Details sheet has date wise session count. You can find listing sessions, menu
+sessions, cart sessions, payment sessions and order sessions day over day
+Channel wise traffic sheet has traffic (listing sessions) breakup at date level.
+Supporting Data sheet has other information at date level which might help you solve
+the case.
+- TASK TO DO:- You need to identify the increase or decrease in the number of orders using Session
+Details sheet
+- Fill all the remaining columns of Session details based on the definition
+mentioned above the column names
+- Identify date of highs and lows in the orders with respect to same day last
+week.Capstone is one of the largest food ecommerce platform in the country. Every day more than 1 million users are transacting on the platform. Let’s say you are growth and strategy analyst of Capstone and you need to generate insight on company’s performance in 2019. For this, you are going to use ‘Funnel Case Study Data’ workbook which has 3 work sheets. You can find the details of the sheets below: Session Details sheet has date wise session count. You can find listing sessions, menu sessions, cart sessions, payment sessions and order sessions day over day Channel wise traffic sheet has traffic (listing sessions) breakup at date level. Supporting Data sheet has other information at date level which might help you solve the case. TASK TO DO:- You need to identify the increase or decrease in the number of orders using Session Details sheet o Fill all the remaining columns of Session details based on the definition mentioned above the column names o Identify date of highs and lows in the orders with respect to same day last week.
+- Skills: Statistical Data Analysis · Business Analysis · Sales Funnel Optimization · Microsoft Excel · Statistics
+### TRAFFIC ANALYSIS 
+![image](https://github.com/user-attachments/assets/cde5824e-f084-4bad-b8f6-32ed580b6055)
+
 
 
