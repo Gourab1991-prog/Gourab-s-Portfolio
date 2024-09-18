@@ -58,7 +58,7 @@ Python libraries NumPy and Pandas to complete the assigned tasks.
   ### SQL CAPSTONE AIRLINE PROJECT
   - UNDERSTAND THE TABLE SCHEMA [SCHEMA](https://github.com/Gourab1991-prog/Capstone-SQL-PROJECT/blob/main/AirlineDB%20Schema.pdf)
   - CODES ARE HERE : [CODES](https://github.com/Gourab1991-prog/Capstone-SQL-PROJECT/blob/main/Capstone%20Sql%20%20all%20Codes.md?plain=1)
-  ## OVERVIEW :
+  ### OVERVIEW :
 - Situation : Provided couple of tables in Sql Playground Relevant to Airline Related Business metrics.
 - Task: Retrieve From Table The Relevant Data over Huge Database of Various table ask to summarize Each table And Extract The Relevant Requirements.
 - Result: Successfully Retrieve Each query Without Any Error In coding section Data sorted Perfectly as per requirements.Sql Capstone(2ND MAY 2024)(11 DAY PROJECT) - Situation: Provided couple of tables in Sql 
