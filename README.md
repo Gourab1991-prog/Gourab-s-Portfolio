@@ -115,7 +115,13 @@ week.Capstone is one of the largest food ecommerce platform in the country. Ever
 
 
 ### EXCEL ASSIGNMENT WORIKING WITH CHART
-- SOLUTION FILE LINK: [EXCEL FILE]
+- SOLUTION FILE LINK: [EXCEL FILE](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/0ecc9904f9d7f4b39e5e7384869c969d67af328a)
+### OVERVIEW:  
+Working With The Various Types Of Chart For Preparing An Excel DashBoard.
+
+### PICTURE OF VARIOUS TYPES OF CHARTS
+![image](https://github.com/user-attachments/assets/f425cd10-fa28-45c5-aa4b-f44cd8fa290b)
+
 
 
 
