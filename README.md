@@ -138,6 +138,18 @@ Working With The Various Types Of Chart For Preparing An Excel DashBoard.
 
 
 
+### EXCEL DATA ANALYSIS [CAPSTONE HYPER MARKET DATA](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/fea1d8717398c23dd7892de12e64aa4e4a204bda)
+
+### PROJECT OVERVIEW
+
+Capstone, situated in HSR, Bangalore, has established itself as a prominent supermarket in the region, catering to a wide range of customers. In response to evolving customer needs and to enhance convenience, Freshco introduced a home delivery service in the year 2021. To ensure seamless operations and optimize customer satisfaction, the store diligently maintained a comprehensive transaction data sheet, containing detailed information at the order level. TASK TO DO- Study The Business Matrics Very Carefully and give ORDER LEVEL ANALYSIS, CUSTOMER LEVEL ANALYSIS COMPLETION RATE ANALYSIS DELIVERY ANALYSIS Create a workbook having all the calculations (charts, tables, conditional formatting etc) to your insights.
+Your report/doc file should not have grammatical mistakes.
+DON'T use Text to column for breaking the columns
+Tables or Data pasted as values will not be accepted
+Create separate sheet in the workbook for every analysis. Hence you need to create 4 sheets. Order level Analysis, Customer Level Analysis, Delivery Analysis, and Completion Rate Analysis.
+
+### EXCEL DASHBOARD PIC 
+![image](https://github.com/user-attachments/assets/0a899d1f-9a3c-4789-bbc8-e32e8692333d)
 
 
 
