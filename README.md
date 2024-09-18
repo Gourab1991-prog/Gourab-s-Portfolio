@@ -10,19 +10,5 @@ I am Responsible For proactively identifying and autonomously prioritizing impac
 
 ## Portfolio Projects
 
-- Python
-Analyzing the Factors Contributing to the Success of a Movie
-Tech Store Sales Analysis
-SQL
-Covid 19 Data Exploration
-Nashville Housing Data Cleaning
-R
-Legendary Pokémon Analysis (Study Project)
-Excel / Google Sheets
-Tableau---> go to Tableau..
-Power BI
-Education
-
-Certificates
-
-Contact
+- Python [Capstonedata](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/capstone%20project%20(2).ipynb)
+- SQL [Capstone Airline Project](https://github.com/Gourab1991-prog/Capstone-SQL-PROJECT/tree/main)
