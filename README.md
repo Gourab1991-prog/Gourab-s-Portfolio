@@ -15,3 +15,5 @@ I am Responsible For proactively identifying and autonomously prioritizing impac
 - POWERBI [CAPSTONE PROJECT](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/MY%20SHOPNEST%20DOC.docx)
 - CAPSTONE BUSNINESS FUNNEL ANALYSIS [FUNNEL ANALYSIS STATISTICS](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/20274b2f475356ffe624ebcf6d00350dd00c9e50)
 - EXCEL DATA ANALYSIS [CAPSTONE HYPER MARKET DATA](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/fea1d8717398c23dd7892de12e64aa4e4a204bda)
+
+### PYTHON CAPSTONE PROJECT 
