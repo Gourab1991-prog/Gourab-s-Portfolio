@@ -13,4 +13,4 @@ I am Responsible For proactively identifying and autonomously prioritizing impac
 - Python [Capstonedata](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/capstone%20project%20(2).ipynb)
 - SQL [Capstone Airline Project](https://github.com/Gourab1991-prog/Capstone-SQL-PROJECT/tree/main)
 - POWERBI [CAPSTONE PROJECT](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/MY%20SHOPNEST%20DOC.docx)
-- CAPSTONE BUSNINESS FUNNEL ANALYSIS
+- CAPSTONE BUSNINESS FUNNEL ANALYSIS [FUNNEL ANALYSIS STATISTICS](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/20274b2f475356ffe624ebcf6d00350dd00c9e50)
