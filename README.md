@@ -119,8 +119,22 @@ week.Capstone is one of the largest food ecommerce platform in the country. Ever
 ### OVERVIEW:  
 Working With The Various Types Of Chart For Preparing An Excel DashBoard.
 
-### PICTURE OF VARIOUS TYPES OF CHARTS
+### PICTURE OF VARIOUS TYPES OF CHARTS 
+
+### COMBO CHART
 ![image](https://github.com/user-attachments/assets/f425cd10-fa28-45c5-aa4b-f44cd8fa290b)
+
+
+### PIE CHART 
+![image](https://github.com/user-attachments/assets/1f251c50-a7e8-4274-860e-7fe64a4dfc11)
+![image](https://github.com/user-attachments/assets/ad50bcbb-6ebd-4550-9822-c812a8190185)
+
+
+### LINE CHART
+![image](https://github.com/user-attachments/assets/eeb9001f-476b-400e-ac7b-d08369c29dae)
+
+
+
 
 
 
