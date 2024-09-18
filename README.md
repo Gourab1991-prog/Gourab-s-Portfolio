@@ -89,3 +89,8 @@ Design a comprehensive Power BI dashboard to address key business analytics for 
 
 
 ![sellers Categorise by city](https://github.com/user-attachments/assets/15f65344-a2ba-49a5-871b-7e0ce7aa9b7d)
+
+### CAPSTONE BUSNINESS FUNNEL ANALYSIS 
+- ANALYSED DATA LINK [FUNNEL ANALYSIS STATISTICS](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/20274b2f475356ffe624ebcf6d00350dd00c9e50)
+
+
