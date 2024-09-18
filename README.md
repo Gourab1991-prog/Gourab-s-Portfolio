@@ -4,4 +4,4 @@ Hi, I'm Gourab!I am a Accounts Manager And Data Analyst with 6 years of Experien
 During My Data Analyst Career I have Worked with Advance Excel, Postgres SQL, Data Visualization Tools Like PowerBI, I have To Focused Over Statistical Data And Included descriptive and inferential statistical data at Block level and state level. I needed to deal with Algorithms, Business Problem Cases, And Tried To Find The Client Need In Brief.
 I am Responsible For proactively identifying and autonomously prioritizing impactful strategic business problems, translating them into data stories and solving them effectively by applying suitable statistical data analysis and modeling methods.
 ### You Can Check out My Linkedin:[Gourab Mukherjee](https://www.linkedin.com/in/gourabmukherjee91/)
-### MyResume: [Resume Link](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/Gourab%20Mukherjee%20Resume.pdf)
+### My Resume: [Resume Link](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/Gourab%20Mukherjee%20Resume.pdf)
