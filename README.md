@@ -65,3 +65,6 @@ Python libraries NumPy and Pandas to complete the assigned tasks.
   Playground Relevant to Airline Related Business metrics. - Task: Retrieve From Table The Relevant Data over Huge Database of Various table ask to summarize Each table And Extract The Relevant Requirements.
 - Result: Successfully Retrieve Each query Without Any Error In coding section Data sorted Perfectly as per requirements.
 - Skills: PostgreSQL · SQL TABLE · Data Mining · Timeline Management
+
+  ### CAPSTONE POWERBI PROJECT
+  - PROJECT ANALYSIS DOC FILE LINK:- [ANALYSED FILE]
