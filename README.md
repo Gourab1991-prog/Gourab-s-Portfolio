@@ -18,3 +18,4 @@ I am Responsible For proactively identifying and autonomously prioritizing impac
 
 ### PYTHON CAPSTONE PROJECT 
 - UNDERSTAND THE DATA FRAME [DATA FRAME](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/8ae31f7fa62e4967853ab1cb8e27b59cf8bbeee7)
+- CODES ARE HERE: [CODES](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/capstone%20project%20(2).ipynb)
