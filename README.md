@@ -62,7 +62,8 @@ Python libraries NumPy and Pandas to complete the assigned tasks.
 - Situation : Provided couple of tables in Sql Playground Relevant to Airline Related Business metrics.
 - Task: Retrieve From Table The Relevant Data over Huge Database of Various table ask to summarize Each table And Extract The Relevant Requirements.
 - Result: Successfully Retrieve Each query Without Any Error In coding section Data sorted Perfectly as per requirements.Sql Capstone(2ND MAY 2024)(11 DAY PROJECT) - Situation: Provided couple of tables in Sql 
-  Playground Relevant to Airline Related Business metrics. - Task: Retrieve From Table The Relevant Data over Huge Database of Various table ask to summarize Each table And Extract The Relevant Requirements.
+  Playground Relevant to Airline Related Business metrics.
+- Task: Retrieve From Table The Relevant Data over Huge Database of Various table ask to summarize Each table And Extract The Relevant Requirements.
 - Result: Successfully Retrieve Each query Without Any Error In coding section Data sorted Perfectly as per requirements.
 - Skills: PostgreSQL · SQL TABLE · Data Mining · Timeline Management
 
@@ -162,6 +163,9 @@ Create separate sheet in the workbook for every analysis. Hence you need to crea
 - COMPLETED DOMESTIC DATA ENTRY COURSE FROM (PMKVY)(GOVERNMENT OF INDIA)
 ### MY CERTIFICATION 
 - MY EXPERIENCE CERTIFICATE:- [ICA EDUSKILLS PVT.LTD](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/604666d707d53a4c971b4289fe95d9eafe48901b/my%20experience%20letter%20(2).pdf)
-- MY DATA ANALYTICS CERTIFICATE:- [SKILLOVILLA]
+- MY DATA ANALYTICS CERTIFICATE:- [SKILLOVILLA](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/blob/main/MY%20CERTIFICATE.pdf)
+### CONTACTS 
+- EMAIL: (gourav.nil23@gmail.com)
+- linkedin: (https://www.linkedin.com/in/gourabmukherjee91/)
 
 
