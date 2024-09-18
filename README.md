@@ -67,4 +67,8 @@ Python libraries NumPy and Pandas to complete the assigned tasks.
 - Skills: PostgreSQL · SQL TABLE · Data Mining · Timeline Management
 
   ### CAPSTONE POWERBI PROJECT
-  - PROJECT ANALYSIS DOC FILE LINK:- [ANALYSED FILE]
+  - PROJECT ANALYSIS DOC FILE LINK:- [ANALYSED FILE](https://github.com/Gourab1991-prog/Gourab-s-Portfolio/commit/965262bfa651f325fd6ab5877d8c76939b14efdd)
+  ### DASHBOARD PICTURE
+
+  
+![my dashboard](https://github.com/user-attachments/assets/4724107d-f3b9-4a9c-a898-291523450d10)
